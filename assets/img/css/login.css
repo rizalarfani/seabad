@@ -1,0 +1,16 @@
+	/* Login form */
+.form-login .panel-group{
+	margin-top:200px;
+}
+.form-login .content{
+	padding-right: 0px;
+}
+.form-login .form-horizontal .form-group{
+	margin-left:10px;
+	margin-right:10px;
+}
+.form-login form{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+	/* End login form */

@@ -1,0 +1,41 @@
+.navbar-nav > .user-menu > .dropdown-menu{
+	width:180px;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header{
+	padding:5px;
+	height:90px;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header>img{
+	height:45px;
+	width:45px;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header>p{
+	font-size: 14px;
+}
+
+#status_filter,#status_paginate{
+	float:right !important;
+}
+
+#kendaraan_filter,#kendaraan_paginate{
+	float:right !important;
+}
+
+#user_filter,#user_paginate{
+	float:right !important;
+}
+
+#penyewa_filter,#penyewa_paginate{
+	float:right !important;
+}
+
+#sewa_filter,#sewa_paginate{
+	float:right !important;
+}
+
+#maintenance_filter,#maintenance_paginate{
+	float:right !important;
+}

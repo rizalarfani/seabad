@@ -1,0 +1,613 @@
+.element,html{
+    scrollbar-width:none
+}
+html::-webkit-scrollbar,.element::-webkit-scrollbar{
+    display:none
+}
+
+
+.form-group p{
+	color:red;
+}
+
+/* form login */
+
+.form-login{
+	margin-top:150px;
+}
+.form-login .panel-body{
+	padding-left:45px;
+	padding-right:45px;
+}
+
+/* End Form login */
+
+.page-success ol li{
+	margin-bottom:5px;
+}
+
+/* Admin */
+
+.admin-page h3{
+	color:#000;
+}
+
+/* End Admin */
+
+/* Font end */
+
+.pengaduan {
+	box-shadow: 0 3px 15px rgba(0,0,0,0.5);
+	background: white;
+	margin: 20px;
+	padding: 20px;
+	border-radius: 25px;
+}
+
+.section-title {
+	text-align: center;
+}
+
+.img-fluid {
+	height: 300px;
+	width: 400px;
+}
+
+/* Halaman utama */
+a {
+	
+	list-style: none;
+	color: #000;
+}
+.info-panel {
+	box-shadow: 0 2px 10px rgba(0,0,0,0.5);
+	border-radius: 30px;
+	width: 85%;
+	margin-left: 10%;
+	background-color: #00AFF0;
+}
+.info-panel img {
+	height: 65px;
+	width: 70px;
+	justify-items: center;
+	margin-left: 45px;
+	margin-top: 20px;
+	 
+}
+
+/* Akhir halaman utama */
+
+/* Halaman penyewaan */
+
+.navbar {
+	width: 100%;
+	height: 50px;
+	top: 0;
+	position: fixed;
+	z-index: 100;
+}
+
+nav i {
+	font-size: 25px;
+    align-content: center;	
+    
+}
+
+
+.jumbotron {
+	background-size: cover;
+	height: 200px;
+	margin-top: 50px;
+	
+}
+.jumbotron p {
+	font-size: 30px;
+	text-align: center;
+	font-weight: 400;
+}
+nav p {
+	font-size: 25px;
+	font-weight: 400;
+	text-align: center;
+}
+
+.panel {
+	box-shadow: 0 1px 10px rgba(0,0,0,0.5);
+	background-color: #00AFF0;
+	border-radius: 25px;
+}
+
+.panel img {
+	height: 65px;
+	width: 70px;
+	justify-items: center;
+}
+
+.jenis_kendaraan img {
+	height: 100px;
+	width: 100px;
+	background-size: cover; 
+}
+
+.form-control {
+	border-radius: 30px;
+	border-color: #00AFF0;
+}
+
+.navigation {
+	bottom: 0;
+	left: 0;
+	background-color: #00AFF0;
+	position: fixed;
+	width: 100%;
+	height: 50px;
+}
+
+.icon-active {
+	height: 50px;
+	width: 60px;
+	background-color: #FD8302;
+	border-radius: 100%;
+	box-shadow: 1px 0 10px rgb(0,0,0,0.5);
+}
+
+.navigation .icon {
+	height: 50px;
+	width: 60px;
+	background-color: #00AFF0;
+	border-radius: 100%;
+	box-shadow: 1px 0 10px rgba(0,0,0,0.5);
+}
+
+.navigation .icon:hover{
+	background-color: #FD8302;
+}
+
+.navigation .fa-home {
+	font-size: 30px;
+	margin: 10px;
+	color: white;
+}
+
+.navigation .fa-sign-in-alt {
+	font-size: 30px;
+	margin: 10px;
+	color: white;
+}
+
+.navigation .icon i {
+	font-size: 30px;
+	margin: 10px;
+	color: white;
+	 
+}
+
+.navigation .icon-active i {
+	font-size: 30px;
+	margin: 10px;
+	color: white;
+}
+
+.navigation .icon img {
+	height: 30px;
+	width: 25x;
+	margin: 10px;
+}
+
+.navigation .icon-active img {
+	height: 30px;
+	width: 25x;
+	margin: 10px;
+}
+
+.data_alat {
+	box-shadow: 1px 0 3px rgba(0,0,0,0.5);
+	background-color: white;
+	margin: 10px;
+}
+
+.data_alat img {
+	background-size: cover;
+	width: 100%;
+}
+
+.logo {
+	width: 100px;
+	height: 80px;
+}
+
+.login_p {
+	box-shadow: 1px 0 5px rgba(0,0,0,0.5);
+	padding: 15px;
+	background-color: white;
+	border-radius: 25px;
+}
+
+.login_p a {
+	text-align: center;
+	margin-top: -20px;
+}
+
+.profile {
+	background-position: 70px;
+}
+
+.profile h3 {
+	color: white;
+	text-align: center;
+	font-size: 35px;
+	text-shadow: 1px 0 3px rgba(0,0,0,0.5);
+}
+
+.profile p {
+	color: black;
+	text-align: center;
+	font-size: 15px;
+	text-shadow: 1px 0 3px rgba(100,100,100,0.5);
+}
+
+.profile-user input{
+	border-bottom-color: #DEE0E2;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 0px;
+}
+
+.profile-user label {
+	color: #00AFF0;
+	font-size: 15px;
+}
+
+.panel-profile {
+	box-shadow: 0 1px 10px rgba(0,0,0,0.5);
+	background-color: #ffffff;
+	border-radius: 25px;
+	align-content: center;
+}
+
+.panel-profile i {
+	font-size: 25px;
+	text-align: center;
+	margin-left: 30%;
+	color: #00AFF0;
+	padding: 10px;
+}
+
+.panel-profile p {
+	font-size: 20px;
+	text-align: center;
+}
+
+.panel-profile a:hover {
+	color: #FD8302;
+}
+
+.panel-history {
+	box-shadow: 0  1px 7px rgba(0,0,0,0.5);
+	background-color: #ffffff;
+	border-radius: 7px;
+}
+
+.panel-history .title {
+	padding: 10px;
+}
+
+.panel-history .icon {
+	position: absolute;
+	box-shadow: 0 1px 5px rgba(0,0,0,0.5);
+	background-color:#00AFF0;
+	height: 35px;
+	width: 35px;
+	border-radius: 40%;
+	margin: -20px -31px;
+}
+
+.panel-history .icon p {
+	text-align: center;
+	font-weight: 400;
+	color: white;
+}
+
+.panel-history h4 {
+	font-size: 25px;
+	color: #FD8302;
+}
+.panel-history span {
+	font-size: 10px;
+	color:white;
+}
+
+.panel-history .title p {
+	float: right;
+	margin-top: -20px;
+}
+
+.detail_history {
+	box-shadow: 0 1px 5px rgba(0,0,0,0.5);
+	color: white;
+	border-radius: 40px;
+}
+
+.detail_history p {
+	color: black;
+	margin: 10px;
+}
+
+/* Halaman akhir penyewaan */
+
+/* Css untuk pengaduan */
+
+nav .fas {
+	color: black;
+}
+
+.navigationP {
+	position: fixed;
+	background-color: #00AFF0;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 50px;
+}
+
+.navigationP .fas {
+	font-size: 20px;
+	text-align: center;
+	align-content: center;
+	padding: 5px;
+}
+
+.navigationP p {
+	font-size: 13px;
+}
+
+.navigationP a:hover {
+	color: #FD8302;
+}
+
+.navigationP .active {
+	color: #FD8302;
+}
+
+.navigationP img {
+	height: 30px;
+	width: 25px;
+	margin-left: 20px;
+}
+
+.fa-clipboard-check {
+	font-size: 70px;
+	color: white;
+}
+
+.navigationP .fa-comment-dots {
+    margin-left: 10px;
+}
+
+.navigationP .fa-sign-in-alt {
+    margin-left: 14px;
+}
+
+.login_pengaduan input {
+	border-bottom-color: #DEE0E2;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 0px;
+}
+
+.login_pengaduan label {
+	color: #00AFF0;
+	font-size: 13px;
+}
+
+.btn button {
+	align-content: center;
+	border-radius: 20px;
+}
+
+.cat-feedback {
+	color: white;
+	box-shadow: 0 1px 5px rgba(0,0,0,0.5);
+	text-align: center;
+	border-radius: 50px;
+	margin-top: 30px;
+}
+
+.cat-feedback img {
+	width: 40px;
+	height: 40px;
+	margin: 5px;
+}
+
+.cat-feedback h5 {
+	color: black;
+}
+
+.feedback {
+	color: white;
+	box-shadow: 0 1px 5px rgba(0,0,0,0.5);
+	border-radius: 15px;
+	padding: 10px;
+	margin-top: 30px;
+}
+
+.feedback img {
+	width: 100%;
+	height: 150px;
+}
+
+.feedback p {
+	color: black;
+}
+
+
+.detail_pengaduan {
+    box-shadow: 0 1px 5px rgba(0,0,0,0.5);
+    color : black;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.detail_pengaduan img {
+    background-size: cover;
+    width: 100%;
+    height: 100px;
+}
+
+.kompuntar_pengaduan {
+    box-shadow: 0 1px 5px rgba(0,0,0,0.5);
+    color : black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.komentar h5 {
+    font-size: 22px;
+    margin-left: 10px;
+}
+
+.komentar span {
+    font-size: 10px;
+    margin-left: 18px;
+    margin-top: -7px;
+}
+
+.komentar p {
+    font-size: 13px;
+    margin-left: 20px;
+}
+
+.fd_terbaru {
+    box-shadow: 0 1px 5px rgba(0,0,0,0.5);
+    color : black;
+    border-radius: 8px;
+    width: 100%;
+    padding: 5px;
+}
+
+.fd_terbaru .title img {
+    background-size: cover;
+    width: 100%;
+    height: 100px;
+}
+
+
+/* Akhir Css untuk pengaduan */
+
+
+@media (min-width : 175px) {
+
+	.info-panel h1 {
+		font-size: 25px;
+		margin: 5px;
+	}
+
+	.info-panel p {
+		margin: 10px;
+	}
+
+	.info-panel img {
+		margin-left: 22px;
+	}
+
+	.panel {
+		font-size: 13px;
+	}
+
+	.panel img {
+		height: 30px;
+		width: 30px;
+		margin-top: 30px;
+	}
+
+	.jenis_kendaraan img {
+		height: 75px;
+		width: 75px;
+	}
+
+	.navigation .icon {
+		height: 50px;
+		width: 50px;
+		margin: 5px;
+	}
+
+	.navigation .icon-active {
+		height: 50px;
+		width: 50px;
+		margin: 5px 10px 10px;
+	}
+
+	.navigation .icon i {
+		font-size: 25px;
+	}
+
+	.data_alat {
+		font-size: 13px;
+	}
+	
+	.detail_pengaduan {
+        box-shadow: 0 1px 5px rgba(0,0,0,0.5);
+        color : black;
+        border-radius: 10px;
+        margin-top: 50px;
+    }
+    
+    .detail_pengaduan img {
+        background-size: cover;
+        width: 100%;
+        height: 100px;
+    }
+    
+    .kompuntar_pengaduan {
+        box-shadow: 0 1px 5px rgba(0,0,0,0.5);
+        color : black;
+        border-radius: 10px;
+        padding: 10px;
+    }
+
+}
+
+
+
+
+
+
+/* Halaman Login users */
+.login {
+	margin: auto;
+	top: 0;
+	left: 0;
+	background: red;
+}
+
+@media (min-width: 992px) {
+	.jumbotron {
+		height: 200px; 
+		background-color: #ffffff;
+	}
+	.info-panel {
+		box-shadow: 0 3px 20px rgb(0,0,0,0.7);
+		margin-top: -40px;
+		background-color: white;
+		border-radius: 35px;
+		margin-left: 35px;
+	}
+	.info-panel img {
+		height: 100px;
+		width: 100px;
+		justify-items: center;
+		margin-left: 70px;
+		margin-top: 40px;
+	}
+	.info-panel h4 {
+		font-size: 28px;
+		text-align: center;
+	}
+	.jenis_kendaraan img {
+		height: 300px;
+		width: 250px;
+		background-size: cover; 
+	}
+}

@@ -1,0 +1,27 @@
+.form-group p{
+	color:red;
+}
+
+/* form login */
+
+.form-login{
+	margin-top:150px;
+}
+.form-login .panel-body{
+	padding-left:45px;
+	padding-right:45px;
+}
+
+/* End Form login */
+
+.page-success ol li{
+	margin-bottom:5px;
+}
+
+/* Admin */
+
+.admin-page h3{
+	color:#000;
+}
+
+/* End Admin */
